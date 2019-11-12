@@ -1,3 +1,3 @@
-# Oblicanie KWI-----------
+# Oblicanie PROKOS-----------
 
-###S Aplikacja oblczająca KWI-----------
+### Aplikacja oblczająca PROKOS-----------
